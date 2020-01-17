@@ -1,5 +1,7 @@
 # One-Week-Couple
 
+This is a dynamic web project.
+
 The project was developed through SVN. Github is only used for sharing the final results.
 
 The project requires users to input information such as names, ages, hobbies... to store at the web server.
