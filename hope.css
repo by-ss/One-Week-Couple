@@ -1,0 +1,43 @@
+html, body{margin: 0; padding: 0;}
+
+body {
+    /*font-family:Arial,"字体";*/
+    font-family: "Microsoft YaHei";
+    color: #666;
+    font-size: 21px;
+    background-color: #89E0E7;
+}
+
+#topic{
+	height: 2250px;
+	width: 82%;
+	margin-left: 9%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: #F3F9FE;
+	border: 5px solid #BAD4F5;
+}
+
+#text{
+	width: 86%;
+	height: 90%;
+	margin-left: 7%;
+}
+
+#text p{
+	font-size: 22px;
+	line-height: 35px;
+	font-family: "Microsoft YaHei";
+}
+
+#done{
+	display: inline-block;
+	padding: 0 60px 0 60px;
+	font-size: 15px;
+	background-color: white;
+	text-decoration: none;
+	height: 36px;
+	line-height: 36px;
+	border: 1px solid #CCC;
+	margin-top: 22px;
+}
